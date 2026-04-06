@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <CloserVEQuests.LoadingLabel>Closer VE Quests Initializing</CloserVEQuests.LoadingLabel>
+    <CloserVEQuests.SettingsTitle>Closer VE Quests</CloserVEQuests.SettingsTitle>
+    <CloserVEQuests.AncientSiloDistanceDescription>Configure the valid world-tile distance range for Ancient Silo quest sites.</CloserVEQuests.AncientSiloDistanceDescription>
+    <CloserVEQuests.AncientSiloMinDistanceLabel>Ancient Silo min distance: {0}</CloserVEQuests.AncientSiloMinDistanceLabel>
+    <CloserVEQuests.AncientSiloMaxDistanceLabel>Ancient Silo max distance: {0}</CloserVEQuests.AncientSiloMaxDistanceLabel>
+    <CloserVEQuests.AncientIcbmLaunchSiteDistanceDescription>Configure the valid world-tile distance range for Ancient ICBM Launch Site quest sites.</CloserVEQuests.AncientIcbmLaunchSiteDistanceDescription>
+    <CloserVEQuests.AncientIcbmLaunchSiteMinDistanceLabel>Ancient ICBM Launch Site min distance: {0}</CloserVEQuests.AncientIcbmLaunchSiteMinDistanceLabel>
+    <CloserVEQuests.AncientIcbmLaunchSiteMaxDistanceLabel>Ancient ICBM Launch Site max distance: {0}</CloserVEQuests.AncientIcbmLaunchSiteMaxDistanceLabel>
+    <CloserVEQuests.GeneratorSiteDistanceNote>These distance settings apply to all site quests that inherit The Generator's shared site node.</CloserVEQuests.GeneratorSiteDistanceNote>
+    <CloserVEQuests.GeneratorSiteMinDistanceLabel>The Generator site min distance: {0}</CloserVEQuests.GeneratorSiteMinDistanceLabel>
+    <CloserVEQuests.GeneratorSiteMaxDistanceLabel>The Generator site max distance: {0}</CloserVEQuests.GeneratorSiteMaxDistanceLabel>
+    <CloserVEQuests.CryptoforgeSiteDistanceNote>These distance settings apply to all site quests that inherit Cryptoforge's shared site node. Cryptoforge sites can only spawn in Ice Sheet, Sea Ice, Tundra, or Boreal Forest, so the default range may block the quest if your colony is not near those biomes.</CloserVEQuests.CryptoforgeSiteDistanceNote>
+    <CloserVEQuests.CryptoforgeSiteMinDistanceLabel>Cryptoforge site min distance: {0}</CloserVEQuests.CryptoforgeSiteMinDistanceLabel>
+    <CloserVEQuests.CryptoforgeSiteMaxDistanceLabel>Cryptoforge site max distance: {0}</CloserVEQuests.CryptoforgeSiteMaxDistanceLabel>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Closer VE Quests</name>
+    <author>Sk</author>
+    <packageId>sk.closervequests</packageId>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <description>Adjusts VE quests generation to spawn closer to the player's base. A configuration menu is also available for customization.</description>
+    <modVersion>1.0.0</modVersion>
+    <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3671242214</url>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+</ModMetaData>
