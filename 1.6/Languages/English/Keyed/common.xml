@@ -11,6 +11,8 @@
     <CloserVEQuests.GeneratorSiteDistanceNote>These distance settings apply to all site quests that inherit The Generator's shared site node.</CloserVEQuests.GeneratorSiteDistanceNote>
     <CloserVEQuests.GeneratorSiteMinDistanceLabel>The Generator site min distance: {0}</CloserVEQuests.GeneratorSiteMinDistanceLabel>
     <CloserVEQuests.GeneratorSiteMaxDistanceLabel>The Generator site max distance: {0}</CloserVEQuests.GeneratorSiteMaxDistanceLabel>
+    <CloserVEQuests.GeneratorInventorShelterAnywhereLabel>Allow Buried Bunker to spawn in any valid biome</CloserVEQuests.GeneratorInventorShelterAnywhereLabel>
+    <CloserVEQuests.GeneratorInventorShelterAnywhereTooltip>When enabled, this removes the Ancient ARC quest's Sea Ice-only site restriction while keeping the configured distance range.</CloserVEQuests.GeneratorInventorShelterAnywhereTooltip>
     <CloserVEQuests.CryptoforgeSiteDistanceNote>These distance settings apply to all site quests that inherit Cryptoforge's shared site node. Cryptoforge sites can only spawn in Ice Sheet, Sea Ice, Tundra, or Boreal Forest, so the default range may block the quest if your colony is not near those biomes.</CloserVEQuests.CryptoforgeSiteDistanceNote>
     <CloserVEQuests.CryptoforgeSiteMinDistanceLabel>Cryptoforge site min distance: {0}</CloserVEQuests.CryptoforgeSiteMinDistanceLabel>
     <CloserVEQuests.CryptoforgeSiteMaxDistanceLabel>Cryptoforge site max distance: {0}</CloserVEQuests.CryptoforgeSiteMaxDistanceLabel>

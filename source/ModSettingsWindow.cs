@@ -67,6 +67,11 @@ namespace Closer_VE_Quests
                     "CloserVEQuests.GeneratorSiteMaxDistanceLabel",
                     ref ModSettings.generatorSiteMinDistance,
                     ref ModSettings.generatorSiteMaxDistance);
+                listing.CheckboxLabeled(
+                    "CloserVEQuests.GeneratorInventorShelterAnywhereLabel".Translate(),
+                    ref ModSettings.generatorInventorShelterAnywhere,
+                    "CloserVEQuests.GeneratorInventorShelterAnywhereTooltip".Translate());
+                listing.Gap(18f);
             }
 
             if (cryptoforgeLoaded)

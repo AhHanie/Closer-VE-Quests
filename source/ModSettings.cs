@@ -18,6 +18,7 @@ namespace Closer_VE_Quests
         public const int DefaultGeneratorSiteMaxDistance = 27;
         public const int DefaultCryptoforgeSiteMinDistance = 20;
         public const int DefaultCryptoforgeSiteMaxDistance = 100;
+        public const bool DefaultGeneratorInventorShelterAnywhere = true;
         public const int AbsoluteMinDistance = 1;
         public const int AbsoluteMaxDistance = 200;
 
@@ -29,6 +30,7 @@ namespace Closer_VE_Quests
         public static int generatorSiteMaxDistance = DefaultGeneratorSiteMaxDistance;
         public static int cryptoforgeSiteMinDistance = DefaultCryptoforgeSiteMinDistance;
         public static int cryptoforgeSiteMaxDistance = DefaultCryptoforgeSiteMaxDistance;
+        public static bool generatorInventorShelterAnywhere = DefaultGeneratorInventorShelterAnywhere;
 
         public override void ExposeData()
         {
@@ -40,6 +42,7 @@ namespace Closer_VE_Quests
             Scribe_Values.Look(ref generatorSiteMaxDistance, "generatorSiteMaxDistance", DefaultGeneratorSiteMaxDistance);
             Scribe_Values.Look(ref cryptoforgeSiteMinDistance, "cryptoforgeSiteMinDistance", DefaultCryptoforgeSiteMinDistance);
             Scribe_Values.Look(ref cryptoforgeSiteMaxDistance, "cryptoforgeSiteMaxDistance", DefaultCryptoforgeSiteMaxDistance);
+            Scribe_Values.Look(ref generatorInventorShelterAnywhere, "generatorInventorShelterAnywhere", DefaultGeneratorInventorShelterAnywhere);
         }
 
         public static void Validate()
