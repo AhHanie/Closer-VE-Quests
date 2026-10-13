@@ -5,9 +5,10 @@
     <packageId>sk.closervequests</packageId>
     <supportedVersions>
         <li>1.6</li>
+        <li>1.7</li>
     </supportedVersions>
     <description>Adjusts VE quests generation to spawn closer to the player's base. A configuration menu is also available for customization.</description>
-    <modVersion>1.1.0</modVersion>
+    <modVersion>1.2.0</modVersion>
     <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3701574428</url>
     <modDependencies>
         <li>
